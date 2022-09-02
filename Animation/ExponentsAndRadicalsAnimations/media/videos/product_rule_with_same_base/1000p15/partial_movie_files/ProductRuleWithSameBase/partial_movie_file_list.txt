@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/QueFact/PycharmProjects/MathGround/Animation/ExponentsAndRadicalsAnimations/media/videos/product_rule_with_same_base/1000p15/partial_movie_files/ProductRuleWithSameBase/2953894836_3008844199_223132457.mp4'
+file 'file:C:/Users/QueFact/PycharmProjects/MathGround/Animation/ExponentsAndRadicalsAnimations/media/videos/product_rule_with_same_base/1000p15/partial_movie_files/ProductRuleWithSameBase/1948760242_1076466279_3307588195.mp4'
+file 'file:C:/Users/QueFact/PycharmProjects/MathGround/Animation/ExponentsAndRadicalsAnimations/media/videos/product_rule_with_same_base/1000p15/partial_movie_files/ProductRuleWithSameBase/1948760242_2785914446_634157325.mp4'
+file 'file:C:/Users/QueFact/PycharmProjects/MathGround/Animation/ExponentsAndRadicalsAnimations/media/videos/product_rule_with_same_base/1000p15/partial_movie_files/ProductRuleWithSameBase/1948760242_2358420384_1533343057.mp4'

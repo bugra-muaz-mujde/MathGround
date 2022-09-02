@@ -1,0 +1,12 @@
+<SubChapterOfSubChapterButton>
+    padding: 15, 15
+    size_hint: 1, None
+    width: 150
+    height: self.texture_size[1] if self.texture_size[1] else dp(48)
+    text_size: self.width, None
+    canvas.before:
+        Color:
+            rgba: [1, 0.775, 0.09999999999999998, 1]
+        Rectangle:
+            size: self.size
+            pos: self.pos

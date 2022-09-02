@@ -1,0 +1,12 @@
+<ChapterButton>
+    size_hint: None, 1
+    width: 150
+    text_size: self.width, None
+    height: self.texture_size[1] if self.texture_size[1] else dp(48)
+    padding: 15, 15
+    canvas.before:
+        Color:
+            rgba: [1.0, 0.8, 0.2, 1.0]
+        Rectangle:
+            size: self.size
+            pos: self.pos

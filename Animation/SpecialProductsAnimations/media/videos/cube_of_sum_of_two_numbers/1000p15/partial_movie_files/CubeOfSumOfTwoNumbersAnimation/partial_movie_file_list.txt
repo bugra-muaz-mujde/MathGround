@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/QueFact/PycharmProjects/MathGround/Animation/SpecialProductsAnimations/media/videos/cube_of_sum_of_two_numbers/1000p15/partial_movie_files/CubeOfSumOfTwoNumbersAnimation/2953894836_753192173_223132457.mp4'
+file 'file:C:/Users/QueFact/PycharmProjects/MathGround/Animation/SpecialProductsAnimations/media/videos/cube_of_sum_of_two_numbers/1000p15/partial_movie_files/CubeOfSumOfTwoNumbersAnimation/1948760242_1076466279_3871606260.mp4'
+file 'file:C:/Users/QueFact/PycharmProjects/MathGround/Animation/SpecialProductsAnimations/media/videos/cube_of_sum_of_two_numbers/1000p15/partial_movie_files/CubeOfSumOfTwoNumbersAnimation/1948760242_1174349081_2619819115.mp4'
+file 'file:C:/Users/QueFact/PycharmProjects/MathGround/Animation/SpecialProductsAnimations/media/videos/cube_of_sum_of_two_numbers/1000p15/partial_movie_files/CubeOfSumOfTwoNumbersAnimation/1948760242_2358420384_2692199323.mp4'

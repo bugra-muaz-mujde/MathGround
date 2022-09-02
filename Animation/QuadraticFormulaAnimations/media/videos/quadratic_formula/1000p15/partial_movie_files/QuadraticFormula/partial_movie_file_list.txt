@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/QueFact/PycharmProjects/MathGround/Animation/QuadraticFormulaAnimations/media/videos/quadratic_formula/1000p15/partial_movie_files/QuadraticFormula/2953894836_1399023064_223132457.mp4'
+file 'file:C:/Users/QueFact/PycharmProjects/MathGround/Animation/QuadraticFormulaAnimations/media/videos/quadratic_formula/1000p15/partial_movie_files/QuadraticFormula/1948760242_1076466279_788165025.mp4'
+file 'file:C:/Users/QueFact/PycharmProjects/MathGround/Animation/QuadraticFormulaAnimations/media/videos/quadratic_formula/1000p15/partial_movie_files/QuadraticFormula/1948760242_64302852_3149277991.mp4'
+file 'file:C:/Users/QueFact/PycharmProjects/MathGround/Animation/QuadraticFormulaAnimations/media/videos/quadratic_formula/1000p15/partial_movie_files/QuadraticFormula/1948760242_2358420384_1815382407.mp4'

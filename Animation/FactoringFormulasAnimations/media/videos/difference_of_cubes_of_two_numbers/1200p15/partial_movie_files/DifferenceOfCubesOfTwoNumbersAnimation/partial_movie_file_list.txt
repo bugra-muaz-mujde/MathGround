@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/QueFact/PycharmProjects/MathGround/Animation/FactoringFormulasAnimations/media/videos/difference_of_cubes_of_two_numbers/1200p15/partial_movie_files/DifferenceOfCubesOfTwoNumbersAnimation/2793588599_3075535916_223132457.mp4'
+file 'file:C:/Users/QueFact/PycharmProjects/MathGround/Animation/FactoringFormulasAnimations/media/videos/difference_of_cubes_of_two_numbers/1200p15/partial_movie_files/DifferenceOfCubesOfTwoNumbersAnimation/1001321785_1076466279_146053868.mp4'
+file 'file:C:/Users/QueFact/PycharmProjects/MathGround/Animation/FactoringFormulasAnimations/media/videos/difference_of_cubes_of_two_numbers/1200p15/partial_movie_files/DifferenceOfCubesOfTwoNumbersAnimation/1001321785_2742469331_3031535703.mp4'
+file 'file:C:/Users/QueFact/PycharmProjects/MathGround/Animation/FactoringFormulasAnimations/media/videos/difference_of_cubes_of_two_numbers/1200p15/partial_movie_files/DifferenceOfCubesOfTwoNumbersAnimation/1001321785_2358420384_3146043122.mp4'
